@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 💬 Ask me about: study!
 
-This is Chinese shudent's favourit website[学而思](https://www.xueersi.com)
+This is Chinese shudent's favourit website [学而思](https://www.xueersi.com)  
+武珞路学生tm最喜欢的老师 罗红
+
