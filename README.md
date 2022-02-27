@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ⚡ Fun fact: I ~~love~~ used to love Cherry🍒...  
 
-She has a boyfriend now......
+~~She has a boyfriend now......~~
+
+She is miiiiiine!!!
 
 💬 Ask me about: study!
 
