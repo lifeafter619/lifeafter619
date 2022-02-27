@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ~~She has a boyfriend now......~~
 
-She is miiiiiine!!!
+She will be miiiiiine!!!
 
 💬 Ask me about: study!
 
