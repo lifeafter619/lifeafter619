@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact: I ~~love~~ used to love Cherry🍒...  
+⚡ Fun fact: I ~~love~~ used to love [Cherry🍒](github.com/lifeafter619/fireworks)...  
 
 ~~She has a boyfriend now......~~
 
@@ -22,6 +22,6 @@ She will be miiiiiine!!!
 
 💬 Ask me about: study!
 
-This is Chinese shudent's favourit website ~~快倒闭~~ [垮台了的的学而思](https://www.xueersi.com)  
-武珞路学生tm最喜欢的老师 [罗红](https://lifeafter619.github.io/luo-red/)
+This is Chinese shudent's favourit website ~~快倒闭~~ [垮台了的的学而思](www.xueersi.com)  
+武珞路学生tm最喜欢的老师 [罗红](lifeafter619.github.io/luo-red/)
 
