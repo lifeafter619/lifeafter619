@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## I am lifeafter619
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeafter619&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/writing-materials)
+
 
 ![Cherry](https://img.shields.io/badge/CoolCutePrettyPerfectGirl-Cherry-red)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Flifeafter619&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/lifeafter619)
@@ -34,4 +36,3 @@ She will be miiiiiine!!!
 
 This is Chinese shudent's favourit website ~~快倒闭~~ [垮台了的的学而思](https://www.xueersi.com)  
 武珞路学生tm最喜欢的老师 [罗红](https://lifeafter619.github.io/luo-red/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/writing-materials)
