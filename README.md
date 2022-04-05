@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 
 She will be miiiiiine!!!
 
+Her paintings
+![](public/img/微信图片_20220405100615.jpg)
+
 💬 Ask me about: study!
 
 This is Chinese shudent's favourit website ~~快倒闭~~ [垮台了的的学而思](https://www.xueersi.com)  
