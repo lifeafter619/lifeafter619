@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 She will be miiiiiine!!!
 
 Her paintings
-![](public/img/微信图片_20220405100615.jpg)
+![](https://github.com/lifeafter619/lifeafter619/blob/4fea73d29d0cea8418d5073259b52e38224ff7f8/public/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220405100615.jpg)
 
 💬 Ask me about: study!
 
