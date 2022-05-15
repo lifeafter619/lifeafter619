@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## I am lifeafter619
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=7370426127&type=0&auto=0&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeafter619&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/writing-materials)
 
