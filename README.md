@@ -38,4 +38,4 @@ Her paintings
 
 💬 Ask me about: study!
 
-This is Chinese shudent's favourit website ~~快倒闭~~ [垮台了的的学而思](https://www.xueersi.com)  
+This is Chinese shudent's favourit website ~~快倒闭~~ [苟延残喘的学而思](https://www.xueersi.com)  
