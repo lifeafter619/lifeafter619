@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeafter619&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/writing-materials)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeafter619)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Szn](https://img.shields.io/badge/CoolCutePrettyPerfectGirl-Szn-red)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Flifeafter619&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/lifeafter619)
@@ -33,4 +33,4 @@ She is miiiiiine!!!
 
 💬 Ask me about: study!
 
-This is Chinese shudent's favourit website ~~快倒闭~~ [苟延残喘的学而思](https://www.xueersi.com)  
+This is Chinese shudent's favourit website ~~快倒闭~~ [很苟的学而思](https://www.xueersi.com)  
