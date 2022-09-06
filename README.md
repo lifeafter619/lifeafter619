@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am 619
+## I am 619.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeafter619&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/For-my-Szn)
