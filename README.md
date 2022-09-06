@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I am lifeafter619
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeafter619&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/writing-materials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lifeafter619&repo=writing-materials&theme=calm)](https://github.com/lifeafter619/For-my-Szn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeafter619)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Szn](https://img.shields.io/badge/CoolCutePrettyPerfectGirl-Szn-red)
