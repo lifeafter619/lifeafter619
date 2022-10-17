@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about: study!
 - 📫 How to reach me: in your heart
 - 😄 Pronouns: a loving dog?! (doge✨
-- ⚡ Fun fact: adore Szn... Also,She is miiiiiine!!!
+- ⚡ Fun fact: adore Szn... Also,She is miiiiiine now!!!
 
