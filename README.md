@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... okay,I need help in ENGLIIIISH!!!!
 - 💬 Ask me about: study!
 - 📫 How to reach me: In your heart or at [my blog](https://66619.eu.org)
-- 😄 Pronouns: a loving dog?! (doge✨ ![1]
+- 😄 Pronouns: a loving dog?! (doge✨ ![]
 - ⚡ Fun fact: adore Szn... 
-### Also,She is miiiiiine now!!!
+### Also,She is miiiiiine now!!!![1]
 
+[1]：https://github.com/lifeafter619/lifeafter619/blob/d343bc8c24573ccfe2dac10f9121460ebe0ec86c/public/img/1.jpg
