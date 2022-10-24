@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on writing.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: study!
-- 📫 How to reach me: in your heart or at [my blog](https://66619.eu.org)
+- 📫 How to reach me: In your heart or at [my blog](https://66619.eu.org)
 - 😄 Pronouns: a loving dog?! (doge✨
-- ⚡ Fun fact: adore Szn... Also,She is miiiiiine now!!!
+- ⚡ Fun fact: adore Szn... 
+### Also,She is miiiiiine now!!!
 
