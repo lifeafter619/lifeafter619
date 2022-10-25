@@ -1,4 +1,4 @@
-### Hi there 👋
+### :octocat:Hi there 👋
 
 <!--
 **lifeafter619/lifeafter619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... okay,I need help in ENGLIIIISH!!!!
 - 💬 Ask me about: study!
 - 📫 How to reach me: In your heart or at [my blog](https://66619.eu.org)
-- 😄 Pronouns: a loving dog?! (doge✨ 
+- 😄 Pronouns: a loving dog:dog:?! (doge✨ 
 - ⚡ Fun fact: adore Szn... 
-### Also,She is miiiiiine now!!!![1](https://github.com/lifeafter619/lifeafter619/blob/d343bc8c24573ccfe2dac10f9121460ebe0ec86c/public/img/1.jpg)
+### :sparkles:Also,She is miiiiiine now!!!!:end:[1](https://github.com/lifeafter619/lifeafter619/blob/d343bc8c24573ccfe2dac10f9121460ebe0ec86c/public/img/1.jpg)
 
 
