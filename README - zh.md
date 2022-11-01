@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... okay,I need help in ENGLIIIISH!!!!
 - 💬 Ask me about: study!
 - 📫 How to reach me: In your heart or at [my blog](https://66619.eu.org).
-- 😄 Pronouns: a loving dog:dog:?! (doge✨ 
+- 😄 Pronouns: a loving dog?! (doge✨ 
 - ⚡ Fun fact: adore Szn... 
 ### Also,She is miiiiiine now!!!!
 ![1.jpg](https://pic.jitudisk.com/public/2022/11/01/9e36f50af61f2.jpg)
