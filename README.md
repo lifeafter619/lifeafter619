@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://trophy.66619.eu.org/?username=lifeafter619&theme=juicyfresh&column=4&margin-w=15&margin-h=15)](https://github.com/lifeafter619)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lifeafter619&no-bg=true&theme=juicyfresh&column=4&margin-w=15&margin-h=15)](https://github.com/lifeafter619)
 
 ![Szn](https://img.shields.io/badge/CoolCutePrettyPerfectGirl-Szn-red)
 ![Szn](https://img.shields.io/badge/IncredibleGracefulDistinguishedRemarkableBrilliantExceptionalEminent-Szn-red)
