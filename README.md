@@ -51,7 +51,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about: study!
 - 📫 How to reach me: In your heart or at [my blog](https://66619.eu.org).
 - 😄 Pronouns: a loving dog:dog:?! (doge✨ 
-- ⚡ Fun fact: :heart_eyes:adore Szn... 
-### ✨Also,She is miiiiiine now!!!!
 ![1](https://image.66619.eu.org/file/5be06d1cbc297f7a4e4ec.jpg)
 
