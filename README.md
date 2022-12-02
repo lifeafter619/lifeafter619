@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨I am 619.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+world!;I+am+lifeafter619.;Welcome%2C+my+best+friends!)](https://git.io/typing-svg)
 
 ### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) visitors
 
