@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-## ✨WHO am I？![2]
+## ✨WHO am I？
 - 🔭 I’m currently working on html and py.
 - 🌱 I’m currently learning html.
 - 👯 I’m looking to collaborate on writing.
