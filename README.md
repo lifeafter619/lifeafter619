@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+world!;I+am+lifeafter619.;Welcome%2C+my+best+friends!)](https://git.io/typing-svg)
 
+## [![blog](https://img.shields.io/badge/Blog-66619.eu.org-light?style=for-the-badge&logo=appveyor)](66619.eu.org)
+
 ### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) visitors
 
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
