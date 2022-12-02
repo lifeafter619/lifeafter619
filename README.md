@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## ✨I am 619.
 
-### Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) visitors
+### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) visitors
 
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-## ✨WHO am I？![2](https://image.66619.eu.org/file/9fae3c0818ef6d900ec39.jpg)
+## ✨WHO am I？![2]
 - 🔭 I’m currently working on html and py.
 - 🌱 I’m currently learning html.
 - 👯 I’m looking to collaborate on writing.
