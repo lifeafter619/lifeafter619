@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: a loving dog:dog:?! (doge✨ 
 ![1](https://image.66619.eu.org/file/5be06d1cbc297f7a4e4ec.jpg)
 
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 ### Frontend  
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
