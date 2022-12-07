@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://66619.eu.org)
 [![blog](https://img.shields.io/badge/Main%20Blog-66619.eu.org-light?style=for-the-badge&logo=appveyor)](https://66619.eu.org)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=66619.eu.org)
 [![hexo blog](https://img.shields.io/badge/Hexo%20Blog-blog.66619.eu.org-light?style=for-the-badge&logo=appveyor)](https://blog.66619.eu.org)
 
 ### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) visitors
