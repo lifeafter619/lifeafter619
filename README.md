@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![hexo blog](https://img.shields.io/badge/Hexo%20Blog-blog.66619.eu.org-light?style=for-the-badge&logo=appveyor)](https://blog.66619.eu.org)
 [![Hexo Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2Fblog.66619.eu.org)](https://blog.66619.eu.org)
 
-### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) friend！
+### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) friends！
 
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
