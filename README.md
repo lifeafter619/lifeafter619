@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://66619.eu.org)
 [![mail](https://img.shields.io/badge/mail%20me-Click%20here-brightgreen?style=for-the-badge&logo=mail)](mailto:mail@66619.eu.org)
 
-Mail me with GPG keys are welcomed.My GPG-public-key can be seen at [there](https://gist.github.com/lifeafter619/cecf6865953bbb1fbc53492517f8d78a#file-pgp-public-mail).
+Send e-mail to me with GPG is welcomed.My GPG-public-key can be seen at [there](https://gist.github.com/lifeafter619/cecf6865953bbb1fbc53492517f8d78a#file-pgp-public-mail).
 
 IMPORTANT:MY Key ID: 5200 3848 A67C 132B
 
