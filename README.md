@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 
 ### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) friends！
+<a href="https://info.flagcounter.com/5jih"><img src="https://s01.flagcounter.com/mini/5jih/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
