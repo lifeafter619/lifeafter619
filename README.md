@@ -49,14 +49,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about: study!
 - 📫 How to reach me: In your heart or at [my blog](https://66619.eu.org).
 - 😄 Pronouns: a loving dog:dog:?! (doge✨ 
-![1](https://image.66619.eu.org/file/5be06d1cbc297f7a4e4ec.jpg)
+- 
+![cat](https://image.66619.eu.org/file/5be06d1cbc297f7a4e4ec.jpg)
 
 
 ## ✨
-<table><tr><td valign="top" width="33.3%">
-
-  
-  
+<table><tr><td valign="top" width="33.33333%">
 ### ✨俺在整的
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
