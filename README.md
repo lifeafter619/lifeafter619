@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 **IMPORTANT:MY Key ID: 5200 3848 A67C 132B**
 
-[![blog](https://img.shields.io/badge/Main%20Blog-66619.eu.org-light?style=for-the-badge&logo=appveyor)](https://66619.eu.org)
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2F66619.eu.org)](https://66619.eu.org)
+[![blog](https://img.shields.io/badge/Blog-66619.eu.org-light?style=for-the-badge&logo=appveyor)](https://66619.eu.org)
+[![Website Statue](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2F66619.eu.org)](https://66619.eu.org)
 
 
 ### ✨Hey!Nice to meet you,my ![Visitor Count](https://profile-counter.glitch.me/lifeafter619/count.svg) friends！
