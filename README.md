@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&vCenter=true&width=435&lines=Hello%2C+world!;I+am+lifeafter619.;Welcome%2C+my+best+friends!)](https://git.io/typing-svg)
 
 
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://66619.eu.org)
 [![mail](https://img.shields.io/badge/mail%20me-Click%20here-brightgreen?style=for-the-badge&logo=mail)](mailto:mail@66619.eu.org)
 
 **Send an e-mail to me with GPG is welcomed.My GPG-public-key can be seen at [there](https://gist.github.com/lifeafter619/cecf6865953bbb1fbc53492517f8d78a#file-pgp-public-mail).**
 
 **IMPORTANT:MY Key ID: 5200 3848 A67C 132B**
 
-[![blog](https://img.shields.io/badge/Blog-66619.eu.org-light?style=for-the-badge&logo=appveyor)](https://66619.eu.org)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://66619.eu.org)
 [![Website Statue](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=blue&up_message=online&url=https%3A%2F%2F66619.eu.org)](https://66619.eu.org)
 
 
