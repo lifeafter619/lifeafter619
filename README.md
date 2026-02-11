@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lifeafter619/profile-cards/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/lifeafter619)
 
-[![trophy](https://github-profile-trophy-roan.vercel.app/?username=lifeafter619&theme=juicyfresh&column=4&margin-w=15&margin-h=15)](https://github.com/lifeafter619)
+[![trophy](https://trophy.619-project.eu.org/?username=lifeafter619&theme=juicyfresh&column=4&margin-w=15&margin-h=15)](https://github.com/lifeafter619)
 
 <a href="https://info.flagcounter.com/5jih"><img src="https://s01.flagcounter.com/mini/5jih/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
 
